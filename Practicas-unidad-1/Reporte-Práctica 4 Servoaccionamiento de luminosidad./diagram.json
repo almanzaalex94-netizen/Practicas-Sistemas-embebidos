@@ -1,0 +1,20 @@
+{
+  "proyecto": "Control Dimmer por Servomotor",
+  "hardware": {
+    "microcontrolador": "ESP32",
+    "pin_servo": 13,
+    "pin_boton_subir": 33,
+    "pin_boton_bajar": 32,
+    "i2c_sda": 27,
+    "i2c_scl": 26,
+    "lcd_direccion": "0x27",
+    "lcd_columnas": 16,
+    "lcd_filas": 2
+  },
+  "limites": {
+    "angulo_minimo": 5,
+    "angulo_maximo": 175,
+    "incremento_porcentaje": 10,
+    "tiempo_antirrebote_ms": 250
+  }
+}
