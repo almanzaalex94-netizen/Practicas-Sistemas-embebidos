@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "author": "Alejandro Almanza",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "board-esp32-devkit-v1", "id": "esp", "top": 0, "left": 0, "attrs": {} },
+    { "type": "servo", "id": "servo1", "top": 100, "left": 250, "attrs": {} },
+    { "type": "pir-motion-sensor", "id": "pir1", "top": -50, "left": 220, "attrs": {} },
+    { "type": "led", "id": "led1", "top": 200, "left": 100, "attrs": { "color": "red" } },
+    { "type": "resistor", "id": "r1", "top": 240, "left": 50, "attrs": { "value": "220" } }
+  ],
+  "connections": [
+    [ "esp:TX2", "$serialMonitor", "rx", "" ],
+    [ "esp:RX2", "$serialMonitor", "tx", "" ],
+    [ "servo1:PWM", "esp:18", "orange", [ "h0" ] ],
+    [ "servo1:V+", "esp:5V", "red", [ "h0" ] ],
+    [ "servo1:GND", "esp:GND.1", "black", [ "h0" ] ],
+    [ "pir1:VCC", "esp:5V", "red", [ "v0" ] ],
+    [ "pir1:GND", "esp:GND.1", "black", [ "v0" ] ],
+    [ "pir1:DO", "esp:27", "green", [ "v0" ] ],
+    [ "led1:A", "esp:4", "red", [ "v0" ] ],
+    [ "led1:C", "r1:1", "black", [ "v0" ] ],
+    [ "r1:2", "esp:GND.2", "black", [ "v0" ] ],
+    [ "esp:25", "esp:26", "none", [] ]
+  ]
+}
