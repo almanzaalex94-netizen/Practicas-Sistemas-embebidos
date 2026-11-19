@@ -64,7 +64,6 @@ interfaces HMI, servomotores, audio y pruebas en simulación y protoboard[cite: 
 * **Alejandro Almanza Perez**[cite: 1, 20, 36, 53, 72, 94, 121, 148]
 * **Vanessa Guadalupe Soria Zavala**[cite: 1, 20, 36, 53, 72, 94, 121, 148]
 * **Adán Rodriguez Ortiz**[cite: 1, 20, 36, 53, 72, 94, 121, 148]
-* **America Aranzazu Rodriguez Perez**[cite: 1, 20, 36, 53, 94, 121, 148]
 
 **Institución:** Universidad Politécnica del Bicentenario (UPB) — Silao, Guanajuato[cite: 1, 20, 36, 53, 71, 72, 94, 121, 148]  
 **Asignatura:** Sistemas Embebidos (Grupo IME 702)[cite: 2, 21, 37, 54, 72, 73, 95, 122, 149]  
