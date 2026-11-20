@@ -55,7 +55,6 @@ y nivel alto (**HL**), y dos relevadores que accionan bombas de llenado y drenad
 * **Alejandro Almanza Perez**[cite: 121]
 * **Vanessa Guadalupe Soria Zavala**[cite: 121]
 * **Adán Rodriguez Ortiz**[cite: 121]
-* **America Aranzazu Rodriguez Perez**[cite: 121]
 
 **Institución:** Universidad Politécnica del Bicentenario (UPB) — Silao, Guanajuato[cite: 121]  
 **Asignatura:** Sistemas Embebidos (Grupo IME 702)[cite: 122]  
