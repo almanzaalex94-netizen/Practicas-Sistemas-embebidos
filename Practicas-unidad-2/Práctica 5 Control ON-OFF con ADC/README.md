@@ -79,7 +79,6 @@ La conmutación de los actuadores se rige por las siguientes condiciones respect
 * **Alejandro Almanza Perez**[cite: 20]
 * **Vanessa Guadalupe Soria Zavala**[cite: 20]
 * **Adán Rodriguez Ortiz**[cite: 20]
-* **America Aranzazu Rodriguez Perez**[cite: 20]
 
 **Institución:** Universidad Politécnica del Bicentenario (UPB) — Silao, Guanajuato[cite: 20]  
 **Asignatura:** Sistemas Embebidos (Grupo IME 702)[cite: 21]  
