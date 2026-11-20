@@ -53,7 +53,6 @@ calefactor**, una **celda Peltier con disipador** y un **ventilador de circulaci
 * **Alejandro Almanza Perez**[cite: 148]
 * **Vanessa Guadalupe Soria Zavala**[cite: 148]
 * **Adán Rodriguez Ortiz**[cite: 148]
-* **America Aranzazu Rodriguez Perez**[cite: 148]
 
 **Institución:** Universidad Politécnica del Bicentenario (UPB) — Silao, Guanajuato[cite: 148]  
 **Asignatura:** Sistemas Embebidos (Grupo IME 702)[cite: 149]  
