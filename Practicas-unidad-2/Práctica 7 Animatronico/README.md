@@ -80,7 +80,6 @@ reproducción de audio digital[cite: 59].
 * **Alejandro Almanza Perez**[cite: 53]
 * **Vanessa Guadalupe Soria Zavala**[cite: 53]
 * **Adán Rodriguez Ortiz**[cite: 53]
-* **America Aranzazu Rodriguez Perez**[cite: 53]
 
 **Institución:** Universidad Politécnica del Bicentenario (UPB) — Silao, Guanajuato[cite: 53]  
 **Asignatura:** Sistemas Embebidos (Grupo IME 702)[cite: 54]  
