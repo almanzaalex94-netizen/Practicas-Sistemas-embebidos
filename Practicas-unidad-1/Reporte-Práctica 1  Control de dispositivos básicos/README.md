@@ -51,7 +51,6 @@ mediante relevador[cite: 95, 102, 108, 113, 114].
 * **Alejandro Almanza Perez**[cite: 94]
 * **Vanessa Guadalupe Soria Zavala**[cite: 94]
 * **Adán Rodriguez Ortiz**[cite: 94]
-* **America Aranzazu Rodriguez Perez**[cite: 94]
 
 **Institución:** Universidad Politécnica del Bicentenario (UPB) — Silao, Guanajuato[cite: 94]  
 **Asignatura:** Sistemas Embebidos (Grupo IME 702)[cite: 95]  
