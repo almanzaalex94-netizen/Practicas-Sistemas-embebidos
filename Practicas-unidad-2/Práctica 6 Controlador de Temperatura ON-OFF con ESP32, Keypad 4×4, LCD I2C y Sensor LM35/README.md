@@ -75,7 +75,6 @@ numérica de umbrales y una pantalla LCD I2C para supervisión en tiempo real[ci
 * **Alejandro Almanza Perez**[cite: 36]
 * **Vanessa Guadalupe Soria Zavala**[cite: 36]
 * **Adán Rodriguez Ortiz**[cite: 36]
-* **America Aranzazu Rodriguez Perez**[cite: 36]
 
 **Institución:** Universidad Politécnica del Bicentenario (UPB) — Silao, Guanajuato[cite: 36]  
 **Asignatura:** Sistemas Embebidos (Grupo IME 702)[cite: 37]  
