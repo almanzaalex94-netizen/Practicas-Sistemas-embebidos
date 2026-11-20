@@ -110,7 +110,6 @@ depuración por puerto Serial a `115200` baudios[cite: 10, 11].
 * **Alejandro Almanza Perez**[cite: 1]
 * **Vanessa Guadalupe Soria Zavala**[cite: 1]
 * **Adán Rodriguez Ortiz**[cite: 1]
-* **America Aranzazu Rodriguez Perez**[cite: 1]
 
 **Institución:** Universidad Politécnica del Bicentenario (UPB) — Silao, Guanajuato[cite: 1]  
 **Asignatura:** Sistemas Embebidos (Grupo IME 702)[cite: 2]  
