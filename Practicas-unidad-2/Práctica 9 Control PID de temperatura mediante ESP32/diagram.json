@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "author": "Alejandro Almanza",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "board-esp32-devkit-c-v4", "id": "esp", "top": 0, "left": 0, "attrs": {} },
+    { "type": "sensor-lm35", "id": "lm35", "top": -100, "left": -100, "attrs": {} },
+    { "type": "lk1602", "id": "lcd1", "top": -150, "left": 100, "attrs": { "pins": "i2c" } },
+    { "type": "ow-keypad-4x4", "id": "keypad1", "top": 150, "left": -150, "attrs": {} },
+    { "type": "servo", "id": "servo1", "top": 100, "left": 200, "attrs": {} }
+  ],
+  "connections": [
+    [ "esp:TX", "$serialMonitor", "RX", "" ],
+    [ "esp:RX", "$serialMonitor", "TX", "" ],
+    [ "lm35:GND", "esp:GND.1", "black", [ "v0" ] ],
+    [ "lm35:VCC", "esp:3V3", "red", [ "v0" ] ],
+    [ "lm35:OUT", "esp:35", "green", [ "v0" ] ],
+    [ "lcd1:GND", "esp:GND.2", "black", [ "v0" ] ],
+    [ "lcd1:VCC", "esp:5V", "red", [ "v0" ] ],
+    [ "lcd1:SDA", "esp:27", "blue", [ "v0" ] ],
+    [ "lcd1:SCL", "esp:26", "yellow", [ "v0" ] ],
+    [ "servo1:GND", "esp:GND.3", "black", [ "v0" ] ],
+    [ "servo1:VCC", "esp:5V", "red", [ "v0" ] ],
+    [ "servo1:PWM", "esp:13", "orange", [ "v0" ] ],
+    [ "keypad1:ROW1", "esp:19", "purple", [ "v0" ] ],
+    [ "keypad1:ROW2", "esp:18", "purple", [ "v0" ] ],
+    [ "keypad1:ROW3", "esp:5", "purple", [ "v0" ] ],
+    [ "keypad1:ROW4", "esp:4", "purple", [ "v0" ] ],
+    [ "keypad1:COL1", "esp:32", "gray", [ "v0" ] ],
+    [ "keypad1:COL2", "esp:33", "gray", [ "v0" ] ],
+    [ "keypad1:COL3", "esp:25", "gray", [ "v0" ] ],
+    [ "keypad1:COL4", "esp:14", "gray", [ "v0" ] ]
+  ]
+}
